@@ -1,2 +1,2 @@
 # WattWise
-A Hyper-Local Electricity Demand Forecaster using LSTM vs Prophet
+A Hyper-Local Electricity Demand Forecasting Framework Using LSTM, Prophet, and Ensemble Models
